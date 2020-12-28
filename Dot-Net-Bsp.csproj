@@ -6,4 +6,8 @@
     <RootNamespace>Dot_Net_Bsp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="humanizer" Version="2.7.9" />
+  </ItemGroup>
+
 </Project>
