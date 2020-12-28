@@ -1,0 +1,16 @@
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\Dot-Net-Bsp.exe
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\Dot-Net-Bsp.deps.json
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\Dot-Net-Bsp.runtimeconfig.json
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\Dot-Net-Bsp.runtimeconfig.dev.json
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\Dot-Net-Bsp.dll
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\ref\Dot-Net-Bsp.dll
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\Dot-Net-Bsp.pdb
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.csprojAssemblyReference.cache
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.AssemblyInfoInputs.cache
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.AssemblyInfo.cs
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.csproj.CoreCompileInputs.cache
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.dll
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\ref\Dot-Net-Bsp.dll
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.pdb
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.genruntimeconfig.cache
