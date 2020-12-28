@@ -58,3 +58,5 @@ C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\zh-C
 C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\zh-Hans\Humanizer.resources.dll
 C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\zh-Hant\Humanizer.resources.dll
 C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\obj\Debug\net5.0\Dot-Net-Bsp.csproj.CopyComplete
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\az\Humanizer.resources.dll
+C:\Users\sachsenfamily\Documents\Tobias\GitHub\Dot-Net-Bsp\bin\Debug\net5.0\hy\Humanizer.resources.dll
